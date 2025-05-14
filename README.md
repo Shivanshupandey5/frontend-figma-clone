@@ -10,10 +10,10 @@ This is a pixel-perfect frontend implementation of a portfolio website based on 
 - Carousel (Custom with JS)
 
 ## 📸 Preview
-![Project Screenshot](./assets/project1.jpg)
-![image](https://github.com/user-attachments/assets/c1863229-e60e-4cb3-afb3-8f107b439075)
 
-![image](https://github.com/user-attachments/assets/3d5ed046-6b64-41bb-9649-29314308ac78)
+![image](https://github.com/user-attachments/assets/c2d21753-12f5-456d-b562-ba1ddcb573bb)
+
+![image](https://github.com/user-attachments/assets/3ffc410c-763d-4e59-8322-31c504e9e9f5)
 
 > [Live Demo](https://shivanshupandey5.github.io/frontend-figma-clone/) (Deployed via GitHub Pages)
 
